@@ -1,0 +1,2 @@
+# instantkill
+instantkill
